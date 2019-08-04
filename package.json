@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "log-update": "^3.2.0"
+    "log-update": "^3.2.0",
+    "multiparty": "^4.2.1"
   }
 }

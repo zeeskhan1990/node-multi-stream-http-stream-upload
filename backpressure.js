@@ -29,3 +29,7 @@ writeStream.on('drain', () => {
 writeStream.on('close', () => {
     process.stdout.write('file copied\n');
 })
+
+/**
+ * readStream.pipe(writeStream)
+ */
