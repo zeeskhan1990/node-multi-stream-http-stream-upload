@@ -1,5 +1,5 @@
 {
-  "name": "node-advanced",
+  "name": "node-multi-stream-http-stream-upload",
   "version": "1.0.0",
   "description": "",
   "main": "read-write-stream.js",
